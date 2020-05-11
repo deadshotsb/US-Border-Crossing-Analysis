@@ -4,7 +4,7 @@ This project is in reference to the <a href = "https://www.kaggle.com/divyansh22
 
 You can refer to my <a href="https://medium.com/p/420fc0abb1c3/edit"> article </a>. 
 
-![](/image%201.jpg)
+![](/image%201.jpg) 
 
 
 ## Installations ## 
@@ -42,7 +42,7 @@ The Comma Separated Value (Border-Crossing-Entry-Data.csv) file contains the ent
 
 The Jupyter notebook (US-Border-Crossing-Data-Analysis.ipynb) file contains the project.
 
-The image(.png) file is used to supplement the Jupyter notebook.
+The image(.png) file is used to supplement the Jupyter notebook. (Source : Google images)
 
 ## Source code ## 
 
@@ -50,3 +50,15 @@ You can check the latest sources with the command:
 
 `git clone https://github.com/deadshotsb/US-Border-Crossing-Analysis.git`
 
+## How to interact ##
+
+Download/clone the repository and provide the path to the (.csv) file provided in the repository.
+
+In case of harware/Package failure you can try out <a href= "colab.research.google.com"> Google Colab </a>.
+
+
+## License ##
+
+The project is under <a href="http://www.apache.org/licenses/LICENSE-2.0" > Apache 2.0 License </a> 
+
+The datatset is under <a href="https://www.usa.gov/government-works/"> U.S. Government Works License </a> 
