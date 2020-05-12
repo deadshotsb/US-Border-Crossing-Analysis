@@ -42,6 +42,16 @@ The main questions that arrises while analyzing the dataset are:-
     4. Is there any specific relation with the count of border crossing with the Date?
     5. How well can the Value be predicted? What aspects correlate well to the number of people crossing the border?
 
+## Summary of the Result ##
+
+On analyzing the Border parameter, about 7337300710 (about 77%) of the incidents marked in the dataset consisted of US-Mexico border meaning Mexicans have tended to come in more frequently into the US as compared to the Canadians from January 1996 to February 2020. Out of which Texas having the maximum share.
+
+About 5,629,526,756 people have crossed the US-Mexico and US-Canada border by Personal Vehicles as Passengers which shows people avoid the public transport.
+
+The Border Crossing is a critical situation to deal as the plot suggest the growth varying between 3 billion to 5.5 billion in range between 1996 to 2018. There is some improvement in 2019 with the data falling just short of 1 billion. The sudden fall in 2020 is solely owing to the recent COVID-19 outbreak.
+
+
+
 ##  File Descriptions ##
 
 There are two working files and an image file in this repository.
