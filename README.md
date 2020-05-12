@@ -32,7 +32,15 @@ or `conda`:
 ## Project Motivation ## 
 
 The motivation for doing the project was primarily an interest in undertaking a challenging project in an interesting area of research.
-The <a href="https://www.kaggle.com/divyansh22/us-border-crossing-data"> dataset </a> contains different features affecting the Border-Crossing of US. This project is used to analyse each and every feature and predict on the basis of the current values what can be the traffic caused due to Border-Crossing.
+The <a href="https://www.kaggle.com/divyansh22/us-border-crossing-data"> dataset </a> contains different features affecting the Border-Crossing of US. This project is used to analyse each and every feature and predict on the basis of the current values what can be the traffic caused due to Border-Crossing. 
+
+The main questions that arrises while analyzing the dataset are:-
+
+    1. Which is the leading neighbouring country from which a huge number of people cross the border?
+    2. What is the most prefered Measure in order to cross the border?
+    3. Which ports are more sensit ive areas?
+    4. Is there any specific relation with the count of border crossing with the Date?
+    5. How well can the Value be predicted? What aspects correlate well to the number of people crossing the border?
 
 ##  File Descriptions ##
 
